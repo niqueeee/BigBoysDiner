@@ -1,0 +1,16 @@
+C:\Users\Nique.JARVIS\Desktop\BigBoysDiner\BigBoysDiner\bin\Debug\BigBoysDiner.exe.config
+C:\Users\Nique.JARVIS\Desktop\BigBoysDiner\BigBoysDiner\bin\Debug\BigBoysDiner.exe
+C:\Users\Nique.JARVIS\Desktop\BigBoysDiner\BigBoysDiner\bin\Debug\BigBoysDiner.pdb
+C:\Users\Nique.JARVIS\Desktop\BigBoysDiner\BigBoysDiner\bin\Debug\BigBoysDiner.xml
+C:\Users\Nique.JARVIS\Desktop\BigBoysDiner\BigBoysDiner\bin\Debug\MySql.Data.xml
+C:\Users\Nique.JARVIS\Desktop\BigBoysDiner\BigBoysDiner\obj\Debug\BigBoysDiner.vbprojAssemblyReference.cache
+C:\Users\Nique.JARVIS\Desktop\BigBoysDiner\BigBoysDiner\obj\Debug\BigBoysDiner.Login.resources
+C:\Users\Nique.JARVIS\Desktop\BigBoysDiner\BigBoysDiner\obj\Debug\BigBoysDiner.Resources.resources
+C:\Users\Nique.JARVIS\Desktop\BigBoysDiner\BigBoysDiner\obj\Debug\BigBoysDiner.vbproj.GenerateResource.cache
+C:\Users\Nique.JARVIS\Desktop\BigBoysDiner\BigBoysDiner\obj\Debug\BigBoysDiner.vbproj.CoreCompileInputs.cache
+C:\Users\Nique.JARVIS\Desktop\BigBoysDiner\BigBoysDiner\obj\Debug\BigBoysDiner.vbproj.CopyComplete
+C:\Users\Nique.JARVIS\Desktop\BigBoysDiner\BigBoysDiner\obj\Debug\BigBoysDiner.exe
+C:\Users\Nique.JARVIS\Desktop\BigBoysDiner\BigBoysDiner\obj\Debug\BigBoysDiner.xml
+C:\Users\Nique.JARVIS\Desktop\BigBoysDiner\BigBoysDiner\obj\Debug\BigBoysDiner.pdb
+C:\Users\Nique.JARVIS\Desktop\BigBoysDiner\BigBoysDiner\obj\Debug\BigBoysDiner.adminConfirm.resources
+C:\Users\Nique.JARVIS\Desktop\BigBoysDiner\BigBoysDiner\obj\Debug\BigBoysDiner.staffReceipt.resources
